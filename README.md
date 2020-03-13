@@ -1,4 +1,4 @@
-# Blog - NGNL
+## NGNL
 
 ## category
 [node](node)
