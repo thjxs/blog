@@ -1,6 +1,7 @@
 ## NGNL
 
 ## category
+- [base64](base64)
 - [node](node)
 - [sheet](sheet) read, edit any excel file
 - [shell](shell)
