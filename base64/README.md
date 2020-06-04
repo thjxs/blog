@@ -1,3 +1,7 @@
+transform binary data to string
+
+can be use on img, like this `src="data:image/png;base64...`
+
 ## example
 ![example](example.png)
 
