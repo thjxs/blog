@@ -3,6 +3,7 @@
 ## category
 - [base64](base64)
 - [node](node)
+- [package](package)
 - [sheet](sheet) read, edit any excel file
 - [shell](shell)
 
