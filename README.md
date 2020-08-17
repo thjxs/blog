@@ -2,6 +2,7 @@
 
 ## category
 - [base64](base64)
+- [canvas](canvas)
 - [node](node)
 - [package](package)
 - [sheet](sheet) read, edit any excel file
